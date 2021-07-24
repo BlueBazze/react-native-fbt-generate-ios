@@ -6,8 +6,6 @@ This is a simple copy paste from the android scripts made by Facebook. Ive adjus
 
 Package.json
 
-`"generate-ios-fbt": "babel-node i18n/scripts/generate-ios-localizables-executor.js", `
-
 ```
 "scripts": {
     "generate-ios-fbt": "babel-node i18n/scripts/generate-ios-localizables-executor.js",
